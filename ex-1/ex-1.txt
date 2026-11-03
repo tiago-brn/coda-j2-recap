@@ -1,0 +1,1 @@
+ mkdir recap-shell | cd recap-shell/ | touch recap-j1.txt | echo " cat exemple-fichier.txt " > recap-j1.txt 
