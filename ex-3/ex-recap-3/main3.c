@@ -7,6 +7,6 @@ int main() {
     char * start_year = "2026";
     char * end_year = "2027";
     printf("Email: %s\n", email);
-    printf("Start Year: %s\n", start_year, "End Year: %s\n", end_year);
+    printf("Start Year: %s\nEnd Year: %s\n", start_year, end_year);
     exit(0);
 }
